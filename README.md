@@ -13,9 +13,13 @@ In general, we recommend testing and using MetaGXplore with  patient multi-omics
 ### Installation
 Installation can be done via pip
   
-  ``` git clone ```
+  ```
+  git clone
+ ```
   
-  ```pip install python=3.9.0 torch=1.12.0 torch_geometric=2.5.2 numpy=1.24.3 pandas =2.2.2```
+  ```
+  pip install python=3.9.0 torch=1.12.0 torch_geometric=2.5.2 numpy=1.24.3 pandas =2.2.2
+```
 
 ### Copyright
 
