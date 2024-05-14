@@ -15,7 +15,7 @@ In general, we recommend testing and using MetaGXplore with  patient multi-omics
 Installation can be done via pip
   
   ```
-  git clone
+  git clone https://github.com/TJiangBio/MetaGXplore.git
  ```
   
   ```
@@ -24,4 +24,5 @@ Installation can be done via pip
 
 ### Copyright
 
-Please cite ** 
+Please cite *MetaGXplore: Integrating Multi-Omics Data with Graph Convolutional Networks for Pan-cancer Patient Metastasis Identification
+Tao Jiang, Haiyang Jiang, Xinyi Ma, Minghao Xu, Wentao Zhang. 2024*
