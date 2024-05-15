@@ -3,7 +3,7 @@
 ## Overview 
 MetaGXplore (Integrating Multi-Omics Data with Graph convolutional networks for Pan-cancer Patient METAstasis Identification) is a novel deep learning model that represents the first attempt to integrate Graph Convolutional Networks (GCN) with multi-omics pan-cancer data for predicting metastasis. 
 
-![Uploading Untitled.png…]()
+![Untitled (1)](https://github.com/TJiangBio/MetaGXplore/assets/51648159/09e284ca-6c9c-4f32-bb4d-b3383e639f1e)
 
 
 ### Objective
