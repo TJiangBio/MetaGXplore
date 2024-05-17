@@ -25,5 +25,5 @@ You can install MetaGXplore via pip:
 
 ### Copyright
 
-Please cite *MetaGXplore: Integrating Multi-Omics Data with Graph Convolutional Networks for Pan-cancer Patient Metastasis Identification
+Please cite *MetaGXplore: Integrating Multi-Omics Data with Graph Convolutional Networks for Pan-cancer Patient Metastasis Identification.
 Tao Jiang, Haiyang Jiang, Xinyi Ma, Minghao Xu, Wentao Zhang. 2024*
